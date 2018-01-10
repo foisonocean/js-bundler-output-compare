@@ -1,0 +1,10 @@
+{
+  "name": "js-bundler-output-compare",
+  "version": "0.0.1",
+  "description": "Compare output of different js bundlers",
+  "main": "index.js",
+  "repository": "https://github.com/foisonocean/js-bundler-output-compare.git",
+  "author": "foisonocean",
+  "license": "MIT",
+  "private": true
+}
