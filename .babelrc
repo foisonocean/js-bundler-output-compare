@@ -1,0 +1,23 @@
+{
+  "env": {
+    "es5": {
+      "presets": [
+        ["env", {
+          "modules": false,
+          "loose": true,
+          "useBuiltIns": true
+        }]
+      ]
+    },
+    "rollup-es5": {
+      "presets": [
+        ["env", {
+          "modules": false,
+          "loose": true,
+          "useBuiltIns": true
+        }]
+      ],
+      "plugins": ["external-helpers"]
+    }
+  }
+}
