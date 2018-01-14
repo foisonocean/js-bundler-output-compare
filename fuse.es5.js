@@ -5,6 +5,7 @@ FuseBox
     homeDir : "src",
     target : 'browser@es5',
     output : "output/fuse-es5/$name.js",
+    useTypescriptCompiler: true,
     plugins : [
       QuantumPlugin({
         uglify: false,
