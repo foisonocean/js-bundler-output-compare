@@ -4,7 +4,6 @@
       "presets": [
         ["env", {
           "modules": false,
-          "loose": true,
           "useBuiltIns": true
         }]
       ]
@@ -13,7 +12,6 @@
       "presets": [
         ["env", {
           "modules": false,
-          "loose": true,
           "useBuiltIns": true
         }]
       ],
